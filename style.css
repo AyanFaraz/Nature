@@ -1,0 +1,27 @@
+.class1 {
+    background-image: url("nature1.jpg"); 
+    justify-items: center;
+    width: 207px;
+    height: 70px;
+    margin-top: 1px;
+    border: solid;
+    border-radius: 3px;    
+     
+}
+
+.class2 {
+    color: white;
+}
+.class3 {
+    color: white;
+}
+.class4 {
+    color: white;
+}
+.class5 {
+    color: white;
+}
+.class6 {
+    justify-items: center;
+    width: 207px;
+}
